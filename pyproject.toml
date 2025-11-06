@@ -16,6 +16,7 @@ dependencies = [
     "httpx[socks]>=0.28.1",
     "ipython>=9.6.0",
     "dotenv>=0.9.9",
+    "trustcall>=0.0.39",
 ]
 
 [[tool.uv.index]]
